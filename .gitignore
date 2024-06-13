@@ -1,4 +1,10 @@
 # Godot 4+ specific ignores
 .godot/
+
 # Build folder with all expots
 build/
+
+# Emacs editor
+*~
+\#*\#
+.\#*
