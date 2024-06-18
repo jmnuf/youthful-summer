@@ -1,10 +1,12 @@
-# Setting
+# Characters
 
-## Characters
+## Main Cast
 - Meiu (Player)
 - Tier
 - Dirvir
 - Pliu
+
+# Setting
 
 ## Location
 Tourist vacation island, Yerm Um
