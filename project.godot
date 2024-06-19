@@ -24,10 +24,12 @@ TimelinesManager="*res://src/Autoloads/timelines_manager.gd"
 
 directories/dch_directory={
 "Dirvir": "res://assets/dialogic/characters/Dirvir.dch",
+"Meiu": "res://assets/dialogic/characters/Meiu.dch",
 "Pilu": "res://assets/dialogic/characters/Pilu.dch",
 "Tier": "res://assets/dialogic/characters/Tier.dch"
 }
 directories/dtl_directory={
+"chapter-00": "res://assets/dialogic/timelines/chapter-00.dtl",
 "test_timeline": "res://assets/dialogic/timelines/test_timeline.dtl"
 }
 glossary/default_case_sensitive=true
