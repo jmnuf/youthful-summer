@@ -12,6 +12,7 @@ config_version=5
 
 config/name="Youthful Summer"
 config/version="0.0.1"
+run/main_scene="res://src/Scenes/GameScene/game_scene.tscn"
 config/features=PackedStringArray("4.2", "GL Compatibility")
 config/icon="res://icon.svg"
 
