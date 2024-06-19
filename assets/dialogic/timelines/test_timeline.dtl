@@ -1,3 +1,4 @@
+[style name="dialog_style"]
 join Tier 2
 Tier (StandingNeutral): Heya!
 Tier: I'm Tier! As in "tea" and "er" from error!\
@@ -7,7 +8,7 @@ join Dirvir 3
 Dirvir (StandingNeutral): We shall keep it all under calculations.
 Dirvir: Everything is calculated, Tier.\
 I shall do my utmost to make the utmost of our time.
-join Pilu 4
+join Pilu 2
 Pilu (StandingNeutral): Let's have fun!\
 You're only 21 once!
 [wait time="1.0"]
