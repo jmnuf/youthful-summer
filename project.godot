@@ -55,6 +55,7 @@ save/autosave_delay=60.0
 save/encryption_on_exports_only=true
 text/autocolor_names=false
 text/autopauses={}
+glossary/glossary_files=["res://assets/dialogic/glossaries/base_glossary.tres"]
 
 [display]
 

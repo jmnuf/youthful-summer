@@ -1,0 +1,50 @@
+[gd_resource type="Resource" script_class="DialogicGlossary" load_steps=2 format=3 uid="uid://dofi0gtd2os06"]
+
+[ext_resource type="Script" path="res://addons/dialogic/Modules/Glossary/glossary_resource.gd" id="1_mp2u1"]
+
+[resource]
+script = ExtResource("1_mp2u1")
+entries = {
+"Dirvir's parents": {
+"case_sensitive": true,
+"name": "Dirvir's parents",
+"text": "Dirvir is mostly human but she's essentially been created in a science laboratory to test ability of humans at connecting with the world's principles. The DNA of approximately 6 living beings were used to create her and most treat her as their daughter.",
+"title": "Dirvir's Creation"
+},
+"Earth Siblings": "other Earths",
+"Ether Archive": "ether-archive",
+"Laziness Master": "Sleeping Master",
+"Sleeping Master": {
+"alternatives": ["Laziness Master", "Sloth Queen"],
+"case_sensitive": true,
+"name": "Sleeping Master",
+"text": "Meiu is rather lazy in doing almost anything that she deems to much of a bother. She has gotten nicknamed the Sleeping Master among others while sleeping through 98% of highschool but still coming on the top 5 of the class",
+"title": "Meiu's Laziness"
+},
+"Sloth Queen": "Sleeping Master",
+"Yorm Um": {
+"color": Color(1, 1, 1, 1),
+"extra": "Yorm Um is absolutely just a Your Mom joke, don't think too much about it",
+"name": "Yorm Um",
+"text": "Touristic island that's almost entirely self-sufficient though owned by one of Dirvir's parents",
+"title": "Yourm Um"
+},
+"ether-archive": {
+"alternatives": ["Ether Archive"],
+"case_sensitive": false,
+"extra": "",
+"name": "ether-archive",
+"text": "Ether archives are pseudo-connections to the universe's hidden pockets used to store data that can persist through time and space.",
+"title": "Ether Archives"
+},
+"other Earths": {
+"alternatives": ["Earth Siblings"],
+"extra": "Many of these planets aren't that similar to Earth",
+"name": "other Earths",
+"text": "After having destroyed the environment of the original Earth humanity barely survived but managed to emigrate to other planets often calling other Earths or Earth Siblings for simplicity.",
+"title": "Earth Siblings"
+}
+}
+enabled = true
+_translation_id = ""
+_translation_keys = {}
