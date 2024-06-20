@@ -6,7 +6,8 @@ join Tier 2 [ z_index="1"]
 Tier: This is quite a place to own. I'm surprised your parents own a touristical island. Isn't that insane, even while standing on it right now it still feels surreal.
 Dirvir: Don't think too hard on it, it's just natural that they would be this ambitous.
 join Pilu 3
-Pilu: Well it is just hard to think since it's not just anyone that can own an entire island just like that.
+Pilu: Well it is just hard to think since it's not just anyone that can own an entire island just like that. Can really only say as expected of Dirvir's parents.
+jump TEST
 Pilu: Though kinda odd that you suddenly told us to come visit.
 Dirvir: Just thought that it would be a good way to spend our last summer before going onto our last year of college.
 Meiu: That's quite an unusual thought process for [i]you[/i] to have.
@@ -19,7 +20,7 @@ Though not particularly that special of a group in this world, we are caught in 
 leave Pilu [animation="Slide Out Right"]
 leave Tier [animation="Slide Out Right" wait="true"]
 update Dirvir 2 [ move_time="0.5"]
-Dirvir is a partially artificial human with half her brain being a mechanical machine that connects to a giant archive.
+Dirvir is a partially artificial human with half her brain being a mechanical machine that connects to a giant ether-archive.
 She is not the type of person to actually just do things on a whim like this.
 leave Dirvir [animation="Slide Out Left" wait="true"]
 join Tier 2 [animation="Slide In Right" wait="true"]
@@ -29,11 +30,44 @@ She's got an unknown connection to the root of the universe so the world sometim
 We've been pushed around because of this, though she's not the first person to have this connection there's no counter-measures for events that not even the person in question knows are happening.
 Meiu: *[i]sigh[/i]*
 leave Tier [animation="Slide Out Left"]
-join Pilu [animation="Slide In Right" wait="true"]
+join Pilu 2 [animation="Slide In Right" wait="true"]
 Pilu: You seem exhausted already. Did the flight make you uncomfortable?
 Pilu is quite an odd case too, an "alien" some would call her though she's just a human born and raised under another star.
 Pilu: You should get more used to planes if you don't you'll suffer when you visit my place too!
-It's weird but she's a reminder of old Earth it's kinda nostalgic though I don't have any memories of life on Earth.
+It's weird but she's a reminder of an older Earth, it's kinda nostalgic though I don't have any memories of life on other Earths.
 Meiu: I am fine but I somehow don't have a great feeling about this. I would like to go back home and sleep for another 36 hours.
+update Pilu 3 [ move_time="0.4"]
+join Tier 2 [animation="Slide In Left"]
+join Dirvir 1 [animation="Slide In Left"]
 It is weird how all 3 of them give me a sense of nostalgia of a time I never lived.
 Though that's irrelevant at the moment, since if Dirvir told me that I can't refuse coming it must be that Tier is causing another phenomenon and I have to help clean up.
+Tier: I can definitely see you doing that, "[i]Sleeping Master[/i]". Though I am glad you came as well, instead of sleeping!
+Dirvir: Let us start heading to the house where we will be staying for the time being.
+Pilu: We aren't staying at a hotel?
+Meiu: Doesn't it just makes sense? Why would we go to a hotel when we can just appropriately use Dirvir's house?
+Pilu: Makes sense, though I kind-off expected to be staying at a hotel...
+label TEST
+Tier: [aa=1]Well now you can't steal the free tiny soap bottles or "peak" into the maid androids for [i]special[/i] requests
+Pilu: [font_size=64]HEY!!!
+Pilu: There's no need to say that in public, this is slander you know!
+Tier: I'm sorry, my bad. I just remembered about the last time we spent a night at a hotel.
+Meiu: Huh, how come I haven't heard of this before?
+Dirvir: You did not come with us as you decided to sleep away last spring break.
+Meiu: [aa=0.5]Ugh!
+Meiu: Definitely sounds like me but I am sure nobody mentioned to me about modifying maid androids from hotels!
+Pilu: And you don't need to know about it!
+Tier: Best not to try to pry much into Meiu, you don't want to be hated.
+Meiu: That sounds a bit much, but sounds like it would be hassle to push further so let's just get to the house.
+Dirvir: We will arrive quickly, our ride should arrive soon.
+Pilu: Is the driver an android?
+Dirvir: Think of it as a prototype to what I am. Though I guess legally it does classify as an android.
+Tier: Pilu don't try anything weird on them[pause=0.5!],\
+without telling me first!
+Meiu: [font_size=32]Don't [pause=0.15]do [pause=0.15]anything [pause=0.15]weird [pause=0.15]period! [pause=1]Both of you!
+Meiu: Let me at least rest a bit more.
+Dirvir: Do not worry, I will keep them under control.
+But you did let them edit some random maid androids, but oh well guess I will have to trust her words...
+leave Dirvir
+leave Tier
+leave Pilu
+[wait time="1.5"]
